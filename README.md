@@ -1,5 +1,4 @@
 # Presentation Timer Controller  
-📘 DOI: [10.5281/zenodo.15254796](https://zenodo.org/records/15254796)
 
 The **Presentation Timer Controller** is a lightweight, browser-based application for managing live presentations in classrooms, workshops, conferences, or team meetings. Built with pure HTML, CSS, and JavaScript, it allows the session organizer to track speaking order, control timing, and visually mark completed presenters — all without needing any installation or backend.
 
