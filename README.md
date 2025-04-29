@@ -73,10 +73,6 @@ No dependencies or frameworks required. This project runs entirely on the client
 
 This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** license.
 
-- ✅ Free to use and modify
-- ✅ Attribution required
-- ❌ Not for commercial use
-
 🔗 © 2025 Hamed Ahmadinia / CC BY-NC 4.0 [License Details](https://creativecommons.org/licenses/by-nc/4.0/)
 
 ---
