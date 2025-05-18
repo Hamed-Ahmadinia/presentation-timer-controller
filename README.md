@@ -65,7 +65,6 @@ No dependencies or frameworks required. This project runs entirely on the client
 |------|-------------|
 | `index.html` | Main application (HTML, CSS, and JS in one file) |
 | `README.md` | Project documentation |
-| `screenshot.png` | Optional screenshot of the app (add your own) |
 
 ---
 
